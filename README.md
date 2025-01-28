@@ -15,13 +15,13 @@ To quote their survey methodology: “The World Poll has regularly surveyed peop
 (for more information visit https://wellcome.org/reports/wellcome-global-monitor-covid-19/2020/methodology)
 
 ## Dependencies
-- **Python Libraries:
+- ** Python Libraries:
   - `pandas`
   - `seaborn`
   - `matplotlib`
   - `plotly`
 
-- **MongoDB
+- ** MongoDB
 
 ## Authors
 - Ethan Shipman
