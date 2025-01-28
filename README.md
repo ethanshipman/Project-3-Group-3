@@ -5,9 +5,9 @@ This study examines the potential relationship between trust in various sectors 
 While the `database_creation.ipynb` file is a good first step if you're interested in seeing how the different static visuals were made by each of us, the interactive visualization works entirely without needing it as it utilized a fully cleaned and merged csv file to ease user engagement.
 
 ## References to data sources:
-    - https://www.kaggle.com/datasets/elmoallistair/global-trust-rate/data
-    - https://gist.github.com/ofou/df09a6834a8421b4f376c875194915c9
-    - https://population.un.org/dataportal
+  - https://www.kaggle.com/datasets/elmoallistair/global-trust-rate/data
+  - https://gist.github.com/ofou/df09a6834a8421b4f376c875194915c9
+  - https://population.un.org/dataportal
 
 ## Ethical Considerations
 While most of our data including location, city, and population data were all standard information and estimates, we still took the time to make sure that all of our data was obtained ethically, reliably, and respected all aspects of privacy and copyright considerations. The main piece of all our data was the global trust survey, provided by the Wellcome Global Monitor as a module within the Gallup World Poll. 
@@ -15,13 +15,13 @@ To quote their survey methodology: “The World Poll has regularly surveyed peop
 (for more information visit https://wellcome.org/reports/wellcome-global-monitor-covid-19/2020/methodology)
 
 ## Dependencies
-- ** Python Libraries:
+- Python Libraries:
   - `pandas`
   - `seaborn`
   - `matplotlib`
   - `plotly`
 
-- ** MongoDB
+- MongoDB
 
 ## Authors
 - Ethan Shipman
