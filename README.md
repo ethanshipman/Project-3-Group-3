@@ -2,7 +2,7 @@
 This study examines the potential relationship between trust in various sectors of society, including but not limited to government, scientific institutions, the media, and others. The primary questions guiding this research are whether individuals who exhibit distrust in certain areas maintain consistent trust in opposing sectors. For example, do individuals who lack trust in scientific institutions tend to place trust in traditional healing practices, or do those who trust the government simultaneously express distrust toward their neighbors?
 
 ## How to use
-While the database_creation.ipynb file is a good first step, the interactive visualization works entirely without needing it as it utilized a fully cleaned and merged csv file to ease user engagement.
+While the `database_creation.ipynb` file is a good first step if you're interested in seeing how the different static visuals were made by each of us, the interactive visualization works entirely without needing it as it utilized a fully cleaned and merged csv file to ease user engagement.
 
 ## References to data sources:
     - https://www.kaggle.com/datasets/elmoallistair/global-trust-rate/data
